@@ -22,7 +22,7 @@ pip install streamlit pandas numpy plotly openpyxl
 **Bước 3: Khởi động Ứng dụng**
 Sau khi cài đặt xong, gõ lệnh sau để mở giao diện Web:
 ```bash
-streamlit run topsis_app.py
+python -m streamlit run topsis_app.py
 ```
 Giao diện sẽ tự động mở lên tại địa chỉ `http://localhost:8501` trên trình duyệt mặc định của bạn.
 
