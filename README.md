@@ -23,8 +23,6 @@ File Excel gốc
 | `topsis_app.py` | Giao diện Streamlit + tầng đọc/làm sạch dữ liệu (`load_data`) |
 | `dss_model.py` | **Module mô hình (TV3)**: AHP, TOPSIS, ngưỡng khuyến nghị, phân tích độ nhạy, các mục tiêu kinh doanh đặt sẵn |
 | `test_dss_model.py` | 25 ca kiểm thử tự động chứng minh công thức cài đặt đúng |
-| `Tai_lieu_thuyet_trinh_TOPSIS.docx` | **Toàn bộ lý thuyết, công thức và bộ câu hỏi phản biện** - tách khỏi app để giao diện gọn như một sản phẩm thật |
-| `tao_tai_lieu.py` | Sinh lại file Word ở trên từ chính mã nguồn và dữ liệu: `python tao_tai_lieu.py` |
 | `requirements.txt` | Danh sách thư viện và phiên bản đã kiểm thử |
 | `Quản lý sản phẩm shopee cuahangchutchiu.xlsx` | Dữ liệu gốc (**chỉ đọc, không ghi đè**) |
 
