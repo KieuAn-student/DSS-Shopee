@@ -1,0 +1,10 @@
+# Thư viện cần thiết cho ứng dụng DSS (cài: pip install -r requirements.txt)
+# Khoảng phiên bản đã kiểm thử thực tế: Python 3.11, streamlit 1.62, pandas 3.0.1,
+# numpy 2.4.2, plotly 6.9.0, openpyxl 3.1.5, matplotlib 3.10.8.
+
+streamlit>=1.30
+pandas>=2.0
+numpy>=1.24
+plotly>=5.18
+openpyxl>=3.1        # pandas cần openpyxl để đọc file .xlsx
+matplotlib>=3.7      # Styler.background_gradient (tô màu cột điểm) cần matplotlib
